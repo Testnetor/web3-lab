@@ -11,7 +11,7 @@ This section is a personal testing area for Web3 experiments, blockchain tools, 
 - Validator and node utilities
 - RPC testing scripts
 - Testnet automation
-- Airdrop research tools
+- Airdrop research tool
 
 ### Goal
 
