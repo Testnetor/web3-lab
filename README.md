@@ -11,10 +11,12 @@ This section is a personal testing area for Web3 experiments, blockchain tools, 
 - Validator and node utilities
 - RPC testing scripts
 - Testnet automation
-- Airdrop research tool
+- Airdrop research tools
 
 ### Goal
 
 The goal of this lab is to test, learn, and build small tools that make Web3 infrastructure management easier and faster.
 
 > Build. Test. Automate. Repeat.
+
+This is all i have
